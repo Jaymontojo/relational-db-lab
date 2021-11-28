@@ -1,0 +1,19 @@
+{
+  "name": "relational-db-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaymontojo/relational-db-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaymontojo/relational-db-lab/issues"
+  },
+  "homepage": "https://github.com/Jaymontojo/relational-db-lab#readme"
+}
