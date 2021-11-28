@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jaymontojo/relational-db-lab/issues"
   },
-  "homepage": "https://github.com/Jaymontojo/relational-db-lab#readme"
+  "homepage": "https://github.com/Jaymontojo/relational-db-lab#readme",
+  "dependencies": {
+    "standard-version": "^9.3.2"
+  }
 }
